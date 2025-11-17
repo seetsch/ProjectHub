@@ -1,6 +1,6 @@
 # Environment Variables Setup Guide
 
-This comprehensive guide explains how to configure environment variables for different environments in the SaaS Mini Dashboard project.
+This comprehensive guide explains how to configure environment variables for different environments in the ProjectHub Dashboard project.
 
 ## 📖 Table of Contents
 

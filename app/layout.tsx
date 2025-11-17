@@ -10,21 +10,21 @@ const inter = Inter({
 
 export const metadata: Metadata = {
   title: {
-    default: 'SaaS Mini Dashboard',
-    template: '%s | SaaS Mini Dashboard',
+    default: 'ProjectHub Dashboard',
+    template: '%s | ProjectHub Dashboard',
   },
   description: 'Modern project management dashboard with authentication, filtering, and full CRUD operations',
   keywords: ['project management', 'dashboard', 'SaaS', 'Next.js', 'Supabase'],
-  authors: [{ name: 'SaaS Mini Team' }],
-  creator: 'SaaS Mini',
+  authors: [{ name: 'ProjectHub Team' }],
+  creator: 'ProjectHub',
   metadataBase: new URL(process.env.NEXT_PUBLIC_APP_URL || 'http://localhost:3000'),
   openGraph: {
     type: 'website',
     locale: 'en_US',
     url: '/',
-    title: 'SaaS Mini Dashboard',
+    title: 'ProjectHub Dashboard',
     description: 'Modern project management dashboard',
-    siteName: 'SaaS Mini Dashboard',
+    siteName: 'ProjectHub Dashboard',
   },
   robots: {
     index: true,

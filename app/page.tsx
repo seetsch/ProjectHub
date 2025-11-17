@@ -145,7 +145,7 @@ export default function Dashboard() {
                 </svg>
               </div>
               <h1 className="text-xl font-bold bg-gradient-to-r from-gray-900 to-gray-700 bg-clip-text text-transparent">
-                SaaS Mini Dashboard
+                ProjectHub Dashboard
               </h1>
             </div>
             <button

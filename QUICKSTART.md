@@ -1,6 +1,6 @@
 # Quick Start Guide
 
-Get your SaaS Mini Dashboard up and running in minutes. This guide provides step-by-step instructions for both Docker and local development setups.
+Get your ProjectHub Dashboard up and running in minutes. This guide provides step-by-step instructions for both Docker and local development setups.
 
 ## 📋 Prerequisites Checklist
 

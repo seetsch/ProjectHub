@@ -1,4 +1,4 @@
-# SaaS Mini Dashboard
+# ProjectHub Dashboard
 
 A modern, full-stack project management dashboard built with Next.js 14, Supabase, and TypeScript. This application provides a complete solution for managing projects with authentication, filtering, search capabilities, and full CRUD operations.
 
