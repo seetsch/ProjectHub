@@ -29,7 +29,7 @@ Docker provides a consistent environment and is the fastest way to get started.
 
 ```bash
 git clone <repository-url>
-cd saasmini
+cd ProjectHub
 ```
 
 ### Step 2: Configure Environment Variables
@@ -129,7 +129,7 @@ This setup is ideal for active development and debugging.
 ```bash
 # Clone the repository (if not already done)
 git clone <repository-url>
-cd saasmini
+cd ProjectHub
 
 # Install all dependencies
 npm install

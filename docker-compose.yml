@@ -5,7 +5,7 @@ services:
     build:
       context: .
       dockerfile: Dockerfile
-    container_name: saasmini-app
+    container_name: project-hub
     ports:
       - "3000:3000"
     env_file:

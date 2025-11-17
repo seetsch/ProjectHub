@@ -52,7 +52,7 @@ The fastest way to get started is using Docker Compose:
 ```bash
 # 1. Clone the repository
 git clone <repository-url>
-cd saasmini
+cd ProjectHub
 
 # 2. Set up environment variables
 cp .env.example .env.local
@@ -79,7 +79,7 @@ For local development without Docker:
 ```bash
 # 1. Clone and navigate to the project
 git clone <repository-url>
-cd saasmini
+cd ProjectHub
 
 # 2. Install dependencies
 npm install
@@ -99,7 +99,7 @@ npm run dev
 ## 📁 Project Structure
 
 ```
-saasmini/
+ProjectHub/
 ├── app/                          # Next.js App Router directory
 │   ├── api/                      # API routes
 │   │   ├── auth/                 # Authentication endpoints

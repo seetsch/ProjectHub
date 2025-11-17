@@ -30,7 +30,7 @@ Environment variables are used to configure the application without hardcoding s
 The project uses the following environment file structure:
 
 ```
-saasmini/
+ProjectHub/
 ├── .env.example              # Template file (committed to git)
 ├── .env.local                # Local development (gitignored)
 ├── .env.development.local    # Development overrides (gitignored)
